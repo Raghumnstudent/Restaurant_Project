@@ -1,0 +1,5 @@
+I created website for Restaurant it works as follows
+1)Initially website show the name of Restaurant, Home page link, Best foods link, and contact us link 
+2)When you click on home link, it open Home page of our Restaurant and gives restaurant information
+3)When you click on Best Food link, it shows the Best Food available in our Restaurant
+4)when you click on contact us link, it shows our Restaurant address, email and phone number and also give form for reporting query  
